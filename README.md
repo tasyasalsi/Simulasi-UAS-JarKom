@@ -1,3 +1,3 @@
 # TOPOLOGI-Simulasi-UAS-JarKom
 
-<img width="16384" alt="Jarkom_KOLAB" src="https://github.com/user-attachments/assets/91ab5f0b-03c0-48a0-9511-cc85e5be5e0f" />
+![WhatsApp Image 2025-01-15 at 11 34 45_153cac28](https://github.com/user-attachments/assets/4f3dcf45-faa7-41bc-bc85-db8d32be1441)
